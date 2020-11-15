@@ -27,7 +27,7 @@ All the numbers, that are shown on this website, are taken from the official THL
 ## API request calls and resources that were used for getting data:
 - daily country wide statistics in English (number of tests, number of positive cases, number of deaths)
 
-[https://sampo.thl.fi/pivot/prod/en/epirapo/covid19case/fact_epirapo_covid19case.json?column=dateweek2020010120201231-443702L&column=measure-141082](hhttps://sampo.thl.fi/pivot/prod/en/epirapo/covid19case/fact_epirapo_covid19case.json?column=dateweek2020010120201231-443702L&column=measure-141082)
+[https://sampo.thl.fi/pivot/prod/en/epirapo/covid19case/fact_epirapo_covid19case.json?column=dateweek2020010120201231-443702L&column=measure-141082](https://sampo.thl.fi/pivot/prod/en/epirapo/covid19case/fact_epirapo_covid19case.json?column=dateweek2020010120201231-443702L&column=measure-141082)
 
 - total numbers for current date are taken from weekly statistics
 
