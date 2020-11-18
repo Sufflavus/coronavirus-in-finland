@@ -73,3 +73,6 @@ Number of deaths devided by sex:
 - [React](https://reactjs.org/)
 - [Redux](https://redux.js.org/)
 - [react localize redux](https://ryandrewjohnson.github.io/react-localize-redux-docs/)
+
+## Contributors
+ - [Lasicaine](https://github.com/Lasicaine) (Design & usability)
