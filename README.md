@@ -15,7 +15,7 @@ All the numbers, that are shown on this website, are taken from the official THL
 - Chart with daily dynamic (for the whole country)
 - Current hostpitalisations - number of people that are currently hospitalised (for the whole country)
 
-![site_screenshot_1](https://bitbucket.org/Sufflava/coronavirus-statistics-in-finland/raw/3d708fad56485db4be4db7d235a6818f76350952/images/site_screenshot_1.png)
+![site_screenshot_1](https://bitbucket.org/Sufflava/coronavirus-statistics-in-finland/raw/c68225c47587466f9cc189bcb0b5593d7efdda64/images/site_screenshot_1.png)
 
 ![site_screenshot_2](https://bitbucket.org/Sufflava/coronavirus-statistics-in-finland/raw/3d708fad56485db4be4db7d235a6818f76350952/images/site_screenshot_2.png)
 
