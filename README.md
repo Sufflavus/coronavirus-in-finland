@@ -14,16 +14,18 @@ All the numbers, that are shown on this website, are taken from the official THL
 - Current situation - summed up numbers (for the whole country, for all the time)
 - Chart with daily dynamic (for the whole country)
 - Current hostpitalisations - number of people that are currently hospitalised (for the whole country)
+- Statistics by age
 
-![site_screenshot_1](https://bitbucket.org/Sufflava/coronavirus-statistics-in-finland/raw/c68225c47587466f9cc189bcb0b5593d7efdda64/images/site_screenshot_1.png)
+![site_screenshot_1](https://bitbucket.org/Sufflava/coronavirus-statistics-in-finland/raw/51d4d70c1b476bbd5ca38e6d07041ec60310c708/images/site_screenshot_1.png)
 
-![site_screenshot_2](https://bitbucket.org/Sufflava/coronavirus-statistics-in-finland/raw/3d708fad56485db4be4db7d235a6818f76350952/images/site_screenshot_2.png)
+![site_screenshot_2](https://bitbucket.org/Sufflava/coronavirus-statistics-in-finland/raw/51d4d70c1b476bbd5ca38e6d07041ec60310c708/images/site_screenshot_2.png)
 
-![site_screenshot_3](https://bitbucket.org/Sufflava/coronavirus-statistics-in-finland/raw/3d708fad56485db4be4db7d235a6818f76350952/images/site_screenshot_3.png)
+![site_screenshot_3](https://bitbucket.org/Sufflava/coronavirus-statistics-in-finland/raw/51d4d70c1b476bbd5ca38e6d07041ec60310c708/images/site_screenshot_3.png)
+
+![site_screenshot_4](https://bitbucket.org/Sufflava/coronavirus-statistics-in-finland/raw/51d4d70c1b476bbd5ca38e6d07041ec60310c708/images/site_screenshot_4.png)
 
 ## Statistics that will be added soon
 - Chart with weekly dynamic devided by regions (map view)
-- Statistics by age
 - Statistics by sex
 
 ## API request calls and resources that were used for getting data:
@@ -73,6 +75,9 @@ Number of deaths devided by sex:
 - [React](https://reactjs.org/)
 - [Redux](https://redux.js.org/)
 - [react localize redux](https://ryandrewjohnson.github.io/react-localize-redux-docs/)
+
+## Contact
+If you have good ideas or extra data to show, please fill free to contact me.
 
 ## Contributors
  - [Lasicaine](https://github.com/Lasicaine) (Design & usability)
