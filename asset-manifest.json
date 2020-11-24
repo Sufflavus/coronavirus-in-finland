@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/coronavirus-in-finland/static/css/main.bd3f63e1.chunk.css",
-    "main.js": "/coronavirus-in-finland/static/js/main.6e1ee7ef.chunk.js",
-    "main.js.map": "/coronavirus-in-finland/static/js/main.6e1ee7ef.chunk.js.map",
+    "main.css": "/coronavirus-in-finland/static/css/main.ec7b96e2.chunk.css",
+    "main.js": "/coronavirus-in-finland/static/js/main.2e10254f.chunk.js",
+    "main.js.map": "/coronavirus-in-finland/static/js/main.2e10254f.chunk.js.map",
     "runtime-main.js": "/coronavirus-in-finland/static/js/runtime-main.648f1e31.js",
     "runtime-main.js.map": "/coronavirus-in-finland/static/js/runtime-main.648f1e31.js.map",
     "static/css/2.7e12dcff.chunk.css": "/coronavirus-in-finland/static/css/2.7e12dcff.chunk.css",
-    "static/js/2.12ed7d71.chunk.js": "/coronavirus-in-finland/static/js/2.12ed7d71.chunk.js",
-    "static/js/2.12ed7d71.chunk.js.map": "/coronavirus-in-finland/static/js/2.12ed7d71.chunk.js.map",
+    "static/js/2.b2c7f67a.chunk.js": "/coronavirus-in-finland/static/js/2.b2c7f67a.chunk.js",
+    "static/js/2.b2c7f67a.chunk.js.map": "/coronavirus-in-finland/static/js/2.b2c7f67a.chunk.js.map",
     "index.html": "/coronavirus-in-finland/index.html",
     "static/css/2.7e12dcff.chunk.css.map": "/coronavirus-in-finland/static/css/2.7e12dcff.chunk.css.map",
-    "static/css/main.bd3f63e1.chunk.css.map": "/coronavirus-in-finland/static/css/main.bd3f63e1.chunk.css.map",
-    "static/js/2.12ed7d71.chunk.js.LICENSE.txt": "/coronavirus-in-finland/static/js/2.12ed7d71.chunk.js.LICENSE.txt",
+    "static/css/main.ec7b96e2.chunk.css.map": "/coronavirus-in-finland/static/css/main.ec7b96e2.chunk.css.map",
+    "static/js/2.b2c7f67a.chunk.js.LICENSE.txt": "/coronavirus-in-finland/static/js/2.b2c7f67a.chunk.js.LICENSE.txt",
     "static/media/index.css": "/coronavirus-in-finland/static/media/roboto-vietnamese-400-normal.52cebac0.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.648f1e31.js",
     "static/css/2.7e12dcff.chunk.css",
-    "static/js/2.12ed7d71.chunk.js",
-    "static/css/main.bd3f63e1.chunk.css",
-    "static/js/main.6e1ee7ef.chunk.js"
+    "static/js/2.b2c7f67a.chunk.js",
+    "static/css/main.ec7b96e2.chunk.css",
+    "static/js/main.2e10254f.chunk.js"
   ]
 }
