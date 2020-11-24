@@ -15,6 +15,8 @@ All the numbers, that are shown on this website, are taken from the official THL
 - Chart with daily dynamic (for the whole country)
 - Current hostpitalisations - number of people that are currently hospitalised (for the whole country)
 - Statistics by age
+- Statistics by sex
+- Chart with daily number of cases devided by regions
 
 ![site_screenshot_1](https://bitbucket.org/Sufflava/coronavirus-statistics-in-finland/raw/51d4d70c1b476bbd5ca38e6d07041ec60310c708/images/site_screenshot_1.png)
 
@@ -24,9 +26,12 @@ All the numbers, that are shown on this website, are taken from the official THL
 
 ![site_screenshot_4](https://bitbucket.org/Sufflava/coronavirus-statistics-in-finland/raw/51d4d70c1b476bbd5ca38e6d07041ec60310c708/images/site_screenshot_4.png)
 
+![site_screenshot_5](https://bitbucket.org/Sufflava/coronavirus-statistics-in-finland/raw/899cedff04845dff276de75dddbcbeabed3e0fec/images/site_screenshot_5.png)
+
+![site_screenshot_6](https://bitbucket.org/Sufflava/coronavirus-statistics-in-finland/raw/899cedff04845dff276de75dddbcbeabed3e0fec/images/site_screenshot_6.png)
+
 ## Statistics that will be added soon
-- Chart with weekly dynamic devided by regions (map view)
-- Statistics by sex
+- Map view
 
 ## API request calls and resources that were used for getting data:
 - daily country wide statistics in English (number of tests, number of positive cases, number of deaths)
@@ -62,10 +67,11 @@ Number of deaths devided by sex:
 
 [https://sampo.thl.fi/pivot/prod/en/epirapo/covid19case/fact_epirapo_covid19case.json?column=measure-492118&column=sex-444328](https://sampo.thl.fi/pivot/prod/en/epirapo/covid19case/fact_epirapo_covid19case.json?column=measure-492118&column=sex-444328)
 
-## Statistics that was not found yet
+## Statistics that has not been found yet
 - Daily dynamic of hospitalisations, country wide and devided by region (currently, only today's numbers are available)
 - Daily total number of deaths (not only coronavirus), country wide and devided by region
-- Daily number of tests that are done devided by region (currently only country wide numbers are available)
+- Daily number of tests that are done devided by age and sex
+- Daily number of tests and deaths devided by region (currently only country wide numbers are available)
 
 ## Used libraries:
 - [JSON-stat Javascript Toolkit](https://www.npmjs.com/package/jsonstat-toolkit)
@@ -75,9 +81,6 @@ Number of deaths devided by sex:
 - [React](https://reactjs.org/)
 - [Redux](https://redux.js.org/)
 - [react localize redux](https://ryandrewjohnson.github.io/react-localize-redux-docs/)
-
-## Contact
-If you have good ideas or extra data to show, please fill free to contact me.
 
 ## Contributors
  - [Lasicaine](https://github.com/Lasicaine) (Design & usability)
